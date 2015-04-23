@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Favorite Websites</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="favorite">Enter Web Address (www.example.net)</string>
+    <string name="nickname">Nickname</string>
+    <string name="saveresource">Touch to save your website</string>
+    <string name="OK">OK</string>
+    <string name="missingMessage">Enter both a Website and a Nickname</string>
+    <string name="searchURL">http://</string>
+    <string name="shareEditDeleteTitle">Share, Edit, or Delete the search tagged as \"%s\"</string>
+    <string name="cancel">Cancel</string>
+    <string name="shareSubject">Check out one of my Favorite Websites!</string>
+    <string name="shareMessage">Check out this cool website: %s</string>
+    <string name="shareSearch">Share Website to:</string>
+    <string name="confirmMessage">Are you sure you want to delete the website \"%s\"?</string>
+    <string name="delete">Delete</string>
+    <string name="favweb">Favorite Websites</string>
+    <string-array name="dialog_items">
+        <item>Share</item>
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+</resources>
